@@ -1,1 +1,1 @@
-# EPcalc
+# Entanglement power calculator
